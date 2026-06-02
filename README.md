@@ -35,7 +35,3 @@ Evaluated on the MEMO dataset with strong performance:
 
 ### Tech Stack
 **Python** • **PyTorch** • **Hugging Face Transformers** • **BERT** • **T5** • **NLTK** • **scikit-learn** • **LDA**
-
----
-
-**This project showcases the practical application of Generative AI and NLP in the mental health domain**, combining emotional intelligence with advanced summarization techniques.
