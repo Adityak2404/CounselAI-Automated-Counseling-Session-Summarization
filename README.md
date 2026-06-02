@@ -12,6 +12,7 @@ CounselAI is a **four-stage automated pipeline** developed as my **B.Tech Major 
 - **Structured Clinical Reports**: Generates professional, section-wise summaries suitable for EHR integration.
 
 ### Methodology Pipeline
+<img width="758" height="330" alt="{1E5C398D-BD56-4E02-B36A-1B4B59E7BCAA}" src="https://github.com/user-attachments/assets/862fcd3b-990a-435a-9000-7608275228bc" />
 
 ### Results & Performance
 
